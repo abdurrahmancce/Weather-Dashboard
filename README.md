@@ -25,6 +25,7 @@ Nimbus provides real-time weather updates, hourly forecasts, and a beautiful ani
 
 <img width="1109" height="839" alt="image" src="https://github.com/user-attachments/assets/5c6d6772-f459-4e8c-92d9-db3ccd2f450f" />
 
+<img width="1101" height="845" alt="image" src="https://github.com/user-attachments/assets/e541268a-864b-4fd0-966e-7851e67478da" />
 
 ---
 
